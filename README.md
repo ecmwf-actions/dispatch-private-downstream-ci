@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository was moved to https://github.com/ecmwf/dispatch-private-downstream-ci. Do not update!
+
 # Trigger private downstream CI
 
 Github action to trigger workflows using repository dispatch event.
